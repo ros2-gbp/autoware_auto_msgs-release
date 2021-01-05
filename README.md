@@ -1,3 +1,26 @@
+## autoware_auto_msgs (foxy) - 1.0.0-1
+
+The packages in the `autoware_auto_msgs` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --rosdistro foxy --track foxy autoware_auto_msgs` on `Tue, 05 Jan 2021 21:09:18 -0000`
+
+The `autoware_auto_msgs` package was released.
+
+Version of package(s) in repository `autoware_auto_msgs`:
+
+- upstream repository: https://gitlab.com/autowarefoundation/autoware.auto/autoware_auto_msgs.git
+- release repository: https://gitlab.com/autowarefoundation/autoware.auto/autoware_auto_msgs-release.git
+- rosdistro version: `0.1.0-1`
+- old version: `0.1.0-1`
+- new version: `1.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## autoware_auto_msgs (dashing) - 1.0.0-1
 
 The packages in the `autoware_auto_msgs` repository were released into the `dashing` distro by running `/usr/bin/bloom-release --rosdistro dashing --track dashing autoware_auto_msgs` on `Tue, 05 Jan 2021 21:06:45 -0000`
