@@ -1,1 +1,1 @@
-{"base": "eec302a", "parent": "debian/rolling/autoware_auto_msgs", "previous": "c0eae9e", "trim": "", "trimbase": ""}
+{"base": "db7752b", "parent": "debian/galactic/autoware_auto_msgs", "previous": "d19a44e", "trim": "", "trimbase": ""}
